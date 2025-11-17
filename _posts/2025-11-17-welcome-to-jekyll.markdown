@@ -1,29 +1,20 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "First Blog Entry"
 date:   2025-11-17 23:15:28 +0300
-categories: jekyll update
+categories: misc
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hello from the first entry I am adding here, at around 11:30 PM 🙂
 
-Jekyll requires blog post files to be named according to the following format:
+I think writing a bit about me would be a bit nice for the visitor to have an idea on who I am:
+* I go by the nickname **polaritynord**.
+* I am an electrical-electronics engineering student at [Middle East Technical University](https://www.metu.edu.tr/).
+* I have been making my own video games ever since 2018. For a long time,  I did it in websites with visual coding such as [Scratch](https://scratch.mit.edu/) and [TurboWarp](https://turbowarp.org/)[^1], but eventually learned Python, Lua and a bit of the C languages.
+* I made my first video games outside Scratch with Python using the Pygame framework, but sadly I got nothing much to show here or in my GitHub profile - since I did not know about Version Control back then. But because of the performance issues I faced with that framework even when making the simplest games, I went on to experiment with other libraries and game engines.
+* I have a little experience in Raylib, a framework for C, and also its Python ports.
+* Godot Engine is the game engine I am most familiar with. In fact, I almost continued the development of my video game [DESOLATION](https://github.com/polaritynord/desolation) in it by a sudden conversion decision. Though, that decision did not live long; I continue to develop the game using Lua/Love2D.
+* And for Lua: I first learned it when I was making some games in Roblox. Then, I decided to learn making games with it without Roblox or any other engine, which brought me to Love2D: the library I've been using primarily since 2023 to mkae video games.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+That's... pretty much everything I can tell about myself! I publish my completed (or at least playable) games in [Itch.io](https://polaritynord.itch.io/), so I recommend you check my profile there!
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[^1]: The two may seem like the same thing, but TurboWarp is a modified version of Scratch 3.0 that gets rid of the many limitations of it (such as the screen size and framerate limitations) and introduces many more features to it. People make amazing 3D projects with it, even game engines!
